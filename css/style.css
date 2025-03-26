@@ -1,0 +1,17 @@
+.first {
+    background-color: #ACE1AF;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile-img {
+    border-radius: 50%;
+    height: 150px;
+}
+
+.footer {
+    background-color: #00AB66;
+}
+
